@@ -1,0 +1,22 @@
+{
+  "name": "natoures",
+  "version": "1.0.0",
+  "description": "Landing page for natoures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuzefaC/Natoures.git"
+  },
+  "author": "Huzefa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuzefaC/Natoures/issues"
+  },
+  "homepage": "https://github.com/HuzefaC/Natoures#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
